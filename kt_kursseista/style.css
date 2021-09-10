@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(80deg, orange, whitesmoke);
+}
+
+#navigation {
+    text-align: center;
+}
+
+#navigation li {
+    list-style: none;
+    /*float: left; */
+    padding-right: 20px;
+}
+
+.showing {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border: 5px solid #555;
+}
+
+.cuteBox {
+    margin-right: auto;
+    margin-left: auto;
+    float: right;
+    display: block;
+    width: 32%;
+
+    height: 200px;
+    border: 5px solid #555;
+}
+
+.halfBlock {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
